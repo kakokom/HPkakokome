@@ -1,0 +1,49 @@
+@charset "utf-8";
+header{
+  img{  margin:auto;
+  display: block;
+  width: 400px;
+  height: 200px;
+  border:2px double blueviolet;
+  
+  }
+}
+
+body{
+  background-image: url("02_malinovka_960.jpg");
+  background-size:cover;
+  background-position: center;
+}
+
+h1{
+ text-align: center;
+ margin:auto;
+ color: whitesmoke;
+ background-color: orange;
+ border: 6px double gray;
+ max-width: 25%;
+ box-shadow: 3px 3px 8px gray;
+ margin-top:20px;
+
+}
+
+h5{
+ width: 10%;
+ background-color: white;
+ border-bottom: 0;
+ font-size: 20px;
+}
+
+p{
+  background-color: white;
+  margin-top:16px;
+  width:50%;
+}
+
+li{
+  color:black;
+  border:5px double gray;
+  width:20%;
+  background-color: lightpink;
+  font-size:20px;
+}
